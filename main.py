@@ -1,5 +1,4 @@
 import yfinance as yf
-import pandas as pd
 import mplfinance as mpf
 import customtkinter as ctk
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
