@@ -49,7 +49,7 @@ pip install yfinance mplfinance customtkinter matplotlib
 To run the application, navigate to the project directory and execute the following command:
 
    ```bash
-   python app.py
+   python main.py
    ```
 
 1. Enter the ticker symbol of the stock you want to analyze in the provided input field.
